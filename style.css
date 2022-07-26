@@ -1,0 +1,34 @@
+
+header {
+	border: 2px solid darkblue;
+	border-radius: 10px;
+	text-align: center;
+	background-color: lightblue;
+}
+
+.mainContent {
+	display: flex;
+}
+
+.box {
+	border: 2px solid silver;
+	border-radius: 10px;
+	padding: 20px;
+	margin: 5px;
+}
+
+.book {
+	text-align: center;
+}
+
+.formList {
+	min-width: 200px;
+}
+
+img {
+	width: 200px;
+}
+
+h2 {
+	height: 50px;
+}
